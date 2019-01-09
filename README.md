@@ -8,7 +8,8 @@ To get this library to compile properly, you'll need to rename the `src/user_con
 
 ## Features
 
-- [ ] On/Off State representation
-- [ ] Toggling the On/Off state via API
+- [x] Connecting to a selected WiFi network
+- [x] On/Off State representation
+- [x] Toggling the On/Off state via API
 - [ ] Toggling the On/Off state via Button
-- [ ] Green Light when connected to the network
+- [x] Green Light when connected to the network
